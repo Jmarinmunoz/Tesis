@@ -26,6 +26,8 @@ UNLICENSED
 
 **Joaquín Marín Muñoz** — Ingeniero en Informática
 
-**Benjamin Vilches** — Ingeniero en Informática 
 [![GitHub](https://img.shields.io/badge/GitHub-Joaquin-black?logo=github)](https://github.com/Jmarinmunoz)
+
+**Benjamin Vilches** — Ingeniero en Informática 
+
 [![GitHub](https://img.shields.io/badge/GitHub-Benjamin-black?logo=github)](https://github.com/Inc0gnite)
